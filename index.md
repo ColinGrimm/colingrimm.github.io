@@ -5,7 +5,7 @@ My name is Colin Grimm, I am a senior at Lehigh University, graduating may 2022.
 <!-- Upload your own photo and change the path -->
 
 <p style="text-align:center;">
-  <img class="img-circle" src="images/CompositePicture" width="50%">
+  <img class="img-circle" src="images/CompositePicture.jpg" width="50%">
 </p>
 
 ---
