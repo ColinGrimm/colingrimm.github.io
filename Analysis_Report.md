@@ -1,3 +1,8 @@
+---
+layout: wide_default
+---    
+
+
 ```python
 import random
 from tqdm import tqdm
