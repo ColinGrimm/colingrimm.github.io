@@ -123,7 +123,7 @@ ax = sns.regplot(x= SP_Mr9['Increased Comp. Risk 1'], y = SP_Mr9['R'])
 
 
     
-![png](output_9_0.png)
+![png](images/output_9_0.png)
     
 
 
@@ -136,7 +136,7 @@ ax = sns.regplot(x= SP_Mr9['Increased Comp. Risk 2'], y = SP_Mr9['R'])
 
 
     
-![png](output_11_0.png)
+![png](images/output_11_0.png)
     
 
 
@@ -149,7 +149,7 @@ ax = sns.regplot(x= SP_Mr9['Increased Comp. Risk 3'], y = SP_Mr9['R'])
 
 
     
-![png](output_13_0.png)
+![png](images/output_13_0.png)
     
 
 
@@ -162,7 +162,7 @@ ax = sns.regplot(x= SP_Mr9['Increased Regulatory Risk'], y = SP_Mr9['R'])
 
 
     
-![png](output_15_0.png)
+![png](images/output_15_0.png)
     
 
 
@@ -175,7 +175,7 @@ ax = sns.regplot(x= SP_Mr9['Increased SCM Risk'], y = SP_Mr9['R'])
 
 
     
-![png](output_17_0.png)
+![png](images/output_17_0.png)
     
 
 
