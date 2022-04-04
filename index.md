@@ -1,6 +1,6 @@
 ## About Me
 
-I am an awesome student at Lehigh, you should hire me!
+My name is Colin Grimm, I am a senior at Lehigh University, graduating may 2022. 
 
 <!-- Upload your own photo and change the path -->
 
